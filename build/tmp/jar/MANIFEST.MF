@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Class-Path: file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/l
+ ibs/dcm4che-hl7-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs
+ -cabinet-renew/libs/dcm4che-imageio-5.13.0.jar file:/home/admin3/all-
+ workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-deidentify-5.13.
+ 0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/d
+ cm4che-tool-json2index-5.13.0.jar file:/home/admin3/all-workspaces/mi
+ bs/mibs-cabinet-renew/libs/dcm4che-tool-jpg2dcm-5.13.0.jar file:/home
+ /admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-core-5.13
+ .0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/
+ dcm4che-tool-ianscp-5.13.0.jar file:/home/admin3/all-workspaces/mibs/
+ mibs-cabinet-renew/libs/dcm4che-tool-syslog-5.13.0.jar file:/home/adm
+ in3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-deident-5.13.
+ 0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/w
+ easis-opencv-core-3.0.0-RC1.jar file:/home/admin3/all-workspaces/mibs
+ /mibs-cabinet-renew/libs/dcm4che-imageio-opencv-5.13.0.jar file:/home
+ /admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-audit-5.1
+ 3.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs
+ /dcm4che-tool-mppsscp-5.13.0.jar file:/home/admin3/all-workspaces/mib
+ s/mibs-cabinet-renew/libs/dcm4che-net-audit-5.13.0.jar file:/home/adm
+ in3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-dcmvalid
+ ate-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-ren
+ ew/libs/dcm4che-tool-json2rst-5.13.0.jar file:/home/admin3/all-worksp
+ aces/mibs/mibs-cabinet-renew/libs/dcm4che-image-5.13.0.jar file:/home
+ /admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-ians
+ cu-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-rene
+ w/libs/dcm4che-json-5.13.0.jar file:/home/admin3/all-workspaces/mibs/
+ mibs-cabinet-renew/libs/slf4j-api-1.7.5.jar file:/home/admin3/all-wor
+ kspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-hl7pix-5.13.0.jar f
+ ile:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-
+ conf-api-hl7-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-ca
+ binet-renew/libs/dcm4che-emf-5.13.0.jar file:/home/admin3/all-workspa
+ ces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-stowrs-5.13.0.jar file:
+ /home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool
+ -dcmldap-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabine
+ t-renew/libs/dcm4che-tool-dcmdir-5.13.0.jar file:/home/admin3/all-wor
+ kspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-storescu-5.13.0.jar
+  file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4ch
+ e-tool-emf2sf-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-c
+ abinet-renew/libs/dcm4che-conf-ldap-imageio-5.13.0.jar file:/home/adm
+ in3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-hl7rcv-5
+ .13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/li
+ bs/commons-cli-1.2.jar file:/home/admin3/all-workspaces/mibs/mibs-cab
+ inet-renew/libs/dcm4che-conf-ldap-5.13.0.jar file:/home/admin3/all-wo
+ rkspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-xml2hl7-5.13.0.jar
+  file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4ch
+ e-tool-getscu-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-c
+ abinet-renew/libs/dcm4che-tool-common-5.13.0.jar file:/home/admin3/al
+ l-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-net-hl7-5.13.0.jar 
+ file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che
+ -tool-findscu-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-c
+ abinet-renew/libs/dcm4che-tool-dcm2dcm-5.13.0.jar file:/home/admin3/a
+ ll-workspaces/mibs/mibs-cabinet-renew/libs/jai_imageio-1.2-pre-dr-b04
+ .jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dc
+ m4che-tool-swappxdata-5.13.0.jar file:/home/admin3/all-workspaces/mib
+ s/mibs-cabinet-renew/libs/dcm4che-tool-stgcmtscu-5.13.0.jar file:/hom
+ e/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-jso
+ n2dcm-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-r
+ enew/libs/dcm4che-tool-mppsscu-5.13.0.jar file:/home/admin3/all-works
+ paces/mibs/mibs-cabinet-renew/libs/dcm4che-soundex-5.13.0.jar file:/h
+ ome/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/slf4j-log4j12-
+ 1.7.5.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/li
+ bs/dcm4che-tool-storescp-5.13.0.jar file:/home/admin3/all-workspaces/
+ mibs/mibs-cabinet-renew/libs/dcm4che-conf-api-5.13.0.jar file:/home/a
+ dmin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-hl72xm
+ l-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew
+ /libs/dcm4che-tool-dcm2json-5.13.0.jar file:/home/admin3/all-workspac
+ es/mibs/mibs-cabinet-renew/libs/dcm4che-imageio-rle-5.13.0.jar file:/
+ home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-
+ mkkos-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-r
+ enew/libs/dcm4che-conf-ldap-hl7-5.13.0.jar file:/home/admin3/all-work
+ spaces/mibs/mibs-cabinet-renew/libs/dcm4che-conf-ldap-audit-5.13.0.ja
+ r file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4c
+ he-tool-movescu-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs
+ -cabinet-renew/libs/dcm4che-tool-ihe-modality-5.13.0.jar file:/home/a
+ dmin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-dcmr-5.13.0
+ .jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dc
+ m4che-tool-syslogd-5.13.0.jar file:/home/admin3/all-workspaces/mibs/m
+ ibs-cabinet-renew/libs/dcm4che-tool-dcmqrscp-5.13.0.jar file:/home/ad
+ min3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-mime-5.13.0.
+ jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm
+ 4che-net-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabine
+ t-renew/libs/dcm4che-tool-xml2dcm-5.13.0.jar file:/home/admin3/all-wo
+ rkspaces/mibs/mibs-cabinet-renew/libs/javax.json-1.0.4.jar file:/home
+ /admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-tool-dcmd
+ ump-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-cabinet-ren
+ ew/libs/dcm4che-tool-hl7snd-5.13.0.jar file:/home/admin3/all-workspac
+ es/mibs/mibs-cabinet-renew/libs/clibwrapper_jiio-1.2-pre-dr-b04.jar f
+ ile:/home/admin3/all-workspaces/mibs/mibs-cabinet-renew/libs/dcm4che-
+ tool-dcm2jpg-5.13.0.jar file:/home/admin3/all-workspaces/mibs/mibs-ca
+ binet-renew/libs/log4j-1.2.17.jar file:/home/admin3/all-workspaces/mi
+ bs/mibs-cabinet-renew/libs/dcm4che-tool-dcm2xml-5.13.0.jar file:/home
+ /admin3/all-workspaces/mibs/mibs-cabinet-renew/jcifs-1.3.19.jar file:
+ /home/admin3/.gradle/caches/modules-2/files-2.1/com.google.guava/guav
+ a/23.0/c947004bb13d18182be60077ade044099e4f26f1/guava-23.0.jar file:/
+ home/admin3/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/
+ 2.6/815893df5f31da2ece4040fe0a12fd44b577afaf/commons-io-2.6.jar file:
+ /home/admin3/.gradle/caches/modules-2/files-2.1/org.apache.commons/co
+ mmons-lang3/3.0/8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0/commons-lang
+ 3-3.0.jar file:/home/admin3/.gradle/caches/modules-2/files-2.1/com.go
+ ogle.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4c
+ fdf/jsr305-1.3.9.jar file:/home/admin3/.gradle/caches/modules-2/files
+ -2.1/com.google.errorprone/error_prone_annotations/2.0.18/5f65affce16
+ 84999e2f4024983835efc3504012e/error_prone_annotations-2.0.18.jar file
+ :/home/admin3/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2
+ objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-
+ annotations-1.1.jar file:/home/admin3/.gradle/caches/modules-2/files-
+ 2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026
+ eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar
+Main-Class: com.mibs.cabinet.DicomHandler
+
